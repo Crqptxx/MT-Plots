@@ -1,0 +1,12 @@
+name: HazeMT-Plots
+version: '1.0'
+main: me.crqptx.hazemtplots.HazeMTPlots
+depend: [ WorldGuard ]
+api-version: 1.12
+authors: [ Crqptx ]
+description: HazeMT Plots Plugin.
+commands:
+  pi:
+    description: "Plot info"
+  hplots:
+    description: "Help Menu"
